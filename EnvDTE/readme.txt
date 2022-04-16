@@ -1,0 +1,1 @@
+﻿Just the bits of Microsoft.VisualStudio.Interop that we need, avoiding a 3MB nuget dependency

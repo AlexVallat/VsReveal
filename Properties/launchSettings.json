@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "VsReveal": {
+      "commandName": "Project",
+      "commandLineArgs": "Program.cs",
+      "workingDirectory": "."
+    }
+  }
+}
